@@ -30,6 +30,6 @@ object ApiReference {
         .addConverterFactory(GsonConverterFactory.create())
         .build()
 
-    //Api service
+    //Api service class
     val apiReference: ApiDetails = retrofit.create(ApiDetails::class.java)
 }

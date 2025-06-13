@@ -5,7 +5,7 @@ import retrofit2.Response
 import retrofit2.http.GET
 
 interface ApiDetails {
-    //Get all countries
+    //Fetch all countries
     @GET(ApiReference.COUNTRY_END_POINT)
     suspend fun getCountries(): Response<ArrayList<CountryListItemModel>>
 }
