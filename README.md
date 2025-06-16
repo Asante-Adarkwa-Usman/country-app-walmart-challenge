@@ -48,4 +48,4 @@ This is a simple Android app that fetches and displays a list of countries using
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/Asante-Adarkwa-Usman/country_list_app.git
+   git clone https://github.com/Asante-Adarkwa-Usman/country-app-walmart-challenge
